@@ -216,3 +216,8 @@ The remaining final-stage items will be added as they are completed:
 ## AI Transparency
 
 I used AI tools, including Claude, as a thinking and development partner throughout the track. AI helped with brainstorming, debugging, code generation, documentation, iteration, and feedback. I reviewed, tested, adapted, and verified the resulting work myself rather than treating AI output as automatically correct.
+
+
+## Live Site
+
+https://raaeel-portfolio.vercel.app/
