@@ -220,4 +220,14 @@ I used AI tools, including Claude, as a thinking and development partner through
 
 ## Live Site
 
+https://raaeel-portfolio.vercel.app/ 
+
+## Build-in-Public Post
+
+[https://lnkd.in/p/dw-UwhUE]
+
+## Final Review
+
+Pending final review/sign-off.
+
 https://raaeel-portfolio.vercel.app/
